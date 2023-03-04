@@ -180,6 +180,7 @@ ClientBin/
 orleans.codegen.cs
 
 /node_modules
+/.angular/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -229,3 +230,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# angular cache
+.angular/
