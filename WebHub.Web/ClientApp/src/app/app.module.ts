@@ -6,7 +6,6 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './shared/components/nav-menu/nav-menu.component';
-import { HomeComponent } from './home/home.component';
 import { RoutingModule } from './routing.module';
 import { HomeModule } from './home/home.module';
 
