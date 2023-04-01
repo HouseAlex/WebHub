@@ -3,14 +3,19 @@
 
 This is my WebHub Solution. This will contains many projects that I work that will be listed below once release.
 
+============================================================================================
+
 Main projects hosted on the hub:
 
-  Completed:
+Completed:
   
-  In Development:
-    - Fashion Project
-       - Outfit Generation
-       - Wardrobe Catalog
+In Development:
+  
+  - Fashion Project
+     - Outfit Generation
+     - Wardrobe Catalog
+
+============================================================================================
 
 Current Working Design and Future Plans:
 
