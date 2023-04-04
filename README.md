@@ -3,7 +3,7 @@
 
 This is my WebHub Solution. This will contains many projects that I work that will be listed below once release.
 
-============================================================================================
+***
 
 Main projects hosted on the hub:
 
@@ -15,7 +15,7 @@ In Development:
      - Outfit Generation
      - Wardrobe Catalog
 
-============================================================================================
+***
 
 Current Working Design and Future Plans:
 
